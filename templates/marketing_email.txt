@@ -1,0 +1,13 @@
+Hi {name},
+
+We hope you're doing well! We're reaching out to share a quick update about our latest offer tailored for {company}.
+
+This month we're helping clients like you get better results with a free strategy session and a welcome discount on their first campaign.
+
+If you'd like to learn more, just reply to this email or book a call here: {call_to_action_url}
+
+If you no longer wish to hear from us, you can unsubscribe at any time by visiting {unsubscribe_url}.
+
+Best regards,
+{sender_name}
+{sender_title}
